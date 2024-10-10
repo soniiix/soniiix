@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @soniiix
 - 👀 I’m interested in web development
-- 🌱 I’m currently in "LP Métiers de l'informatique parcours Applications web"
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently in "LP Métiers de l'informatique parcours Applications web" at Angers University
 - 📫 Contact me on X : @sonixbs
