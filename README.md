@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @soniiix
 - 👀 I’m interested in full stack developement
 - 🎓 I’m currently studying a vocational computer science degree at Angers University
-- 📫 Contact me on Discord : @s0niix
