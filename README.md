@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soniiix
 - 👀 I’m interested in full stack developement
 - 🎓 I’m currently studying a vocational computer science degree at Angers University
-- ✉️ Contact me on Discord : @sonix.sh
-- 👨‍💻 Current project : my portfolio
+- ✉️ Contact me on my portfolio : https://cznquentin.vercel.app
+- 👨‍💻 Current project : hclm49.fr
