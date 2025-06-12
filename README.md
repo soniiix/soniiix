@@ -2,4 +2,4 @@
 - 👀 I’m interested in full stack developement
 - 🎓 I’m currently studying a vocational computer science degree at Angers University
 - ✉️ Contact me on my portfolio : https://cznquentin.vercel.app
-- 👨‍💻 Current project : hclm49.fr
+- 👨‍💻 Current project : hclm49.fr & https://github.com/soniiix/hclm-wp-plugin
