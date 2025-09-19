@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soniiix
 - 👀 I’m interested in full stack developement
-- 🎓 I’m currently studying a vocational computer science degree at Angers University
+- 🎓 I am currently studying the MBA Full Stack Developer program at My Digital School
 - ✉️ Contact me on my portfolio : https://cznquentin.vercel.app
-- 👨‍💻 Current project : hclm49.fr & https://github.com/soniiix/hclm-wp-plugin
+- 👨‍💻 Current project : PrestaShop custom module to add Colissimo and Mondial Relay pickup points for parcel delivery
