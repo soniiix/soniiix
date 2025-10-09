@@ -2,4 +2,4 @@
 - 👀 I’m interested in full stack developement
 - 🎓 I am currently studying the MBA Full Stack Developer program at My Digital School
 - ✉️ Contact me on my portfolio : https://cznquentin.vercel.app
-- 👨‍💻 Current project : PrestaShop custom module to add Colissimo and Mondial Relay pickup points for parcel delivery
+- 👨‍💻 Current project : Prestashop custom module with Symfony to delete inactive customers and all their associated data
