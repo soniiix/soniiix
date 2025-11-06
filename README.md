@@ -2,4 +2,4 @@
 - 👀 I’m interested in full stack developement
 - 🎓 I am currently studying the MBA Full Stack Developer program at My Digital School
 - ✉️ Contact me on my portfolio : https://cznquentin.vercel.app
-- 👨‍💻 Current project : Prestashop custom module with Symfony to delete inactive customers and all their associated data
+- 👨‍💻 Current project : Prestashop custom module with Symfony to delete inactive customers and all their associated data. An email will be sent before deletion to warn customers.
