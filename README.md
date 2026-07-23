@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @soniiix
 - 👀 I’m interested in full stack developement
 - 🎓 I am currently studying the MBA Full Stack Developer program at My Digital School
-- ✉️ Contact me on my portfolio : https://cznquentin.vercel.app
-- 👨‍💻 Current project : PSN Tracker (https://github.com/soniiix/psntracker). A minimalist web app to track and analyze PlayStation trophy progress.
+- ✉️ Contact me on my portfolio: https://cznquentin.vercel.app
+- 👨‍💻 Current projects:
+  - Qoro Digital (https://github.com/qoro-digital). I'm setting up my own digital agency, specializing in website creation. Lauching soon - stay tuned!
+  - PSN Tracker (https://github.com/soniiix/psntracker). A minimalist web app to track and analyze PlayStation trophy progress.
